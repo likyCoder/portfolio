@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Amit's Creative Portfolio Website [(live)](https://profilepalette.vercel.app/)
 
 This is an open-source portfolio website template designed for developers who want a visually appealing, responsive and animated website without extensive custom development. You can easily use this template by copying the code and adding your own data to create a similar animated website showcasing your projects, contact information, about section, and social media links.
@@ -118,3 +119,7 @@ This is an open-source portfolio website template designed for developers who wa
 
 ## Contributing 🤝
 This project is open-source. Contributions are welcome! Feel free to fork the repository and submit pull requests to enhance the template.
+=======
+# portifolio
+likyCoder portifolio
+>>>>>>> e0f4f22296438914547a4af2d3f484e40d18d328
