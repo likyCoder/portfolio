@@ -9,8 +9,8 @@ import Sound from "@/components/Sound";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "Amit Amrutiya",
-  description: "Personal website of Amit Amrutiya",
+  title: "likyCoder",
+  description: "Personal website of likyCoder",
 };
 
 export default function RootLayout({
@@ -25,6 +25,7 @@ export default function RootLayout({
           inter.variable,
           "bg-background text-foreground font-inter"
         )}
+
       >
         <HomeBtn />
         {children}
