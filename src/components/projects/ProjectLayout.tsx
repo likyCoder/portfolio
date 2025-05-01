@@ -41,7 +41,7 @@ function ProjectLayout({
             <div className="p-4">
               <h3 className="font-bold text-lg mb-2">Description</h3>
               <p>{description}</p>
-              <h3 className="font-bold mt-4 text-lg">Tech Stack</h3>
+              <h3 className="font-bold mt-4 text-lg">Tools Used</h3>
               <div className="flex flex-wrap gap-2">
                 {techStack.map((tech, index) => (
                   <span
@@ -55,14 +55,14 @@ function ProjectLayout({
               <div className="mt-6">
                 <Link href={demoLink} target="_blank">
                   <span className="inline-block px-4 py-2 border border-blue-500 text-blue-500 rounded hover:bg-blue-500 hover:text-white transition-colors duration-200">
-                    Demo
+                    Live Demo
                   </span>
                 </Link>
-                <Link href={sourceLink} target="_blank">
+                {/* <Link href={sourceLink} target="_blank">
                   <span className="ml-2 inline-block px-4 py-2 border border-blue-500 text-blue-500 rounded hover:bg-blue-500 hover:text-white transition-colors duration-200">
                     Source Code
                   </span>
-                </Link>
+                </Link> */}
               </div>
             </div>
           </motion.div>

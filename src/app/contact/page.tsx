@@ -20,15 +20,23 @@ export default function Contact() {
       <article className="relative w-full h-screen flex flex-col items-center justify-center py-8 sm:py-0 space-y-8 px-4">
         <div className="flex flex-col items-center justify-center space-y-6 w-full sm:w-3/4">
           <h1 className="text-accent font-semibold text-center text-5xl capitalize">
-            summon the wizard
+            Contact likyCoder
           </h1>
           <p className="text-center font-light text-lg xs:text-base">
-            Step into the circle of enchantment and weave your words into the
-            fabric of the cosmos. Whether you seek to conjure collaborations,
-            unlock mysteries, or simply share tales of adventure, your messages
-            are treasured scrolls within this realm. Use the form below to send
-            your missives through the ethereal network, and await the whisper of
-            magic in response.
+            I am always open to discussing new projects, creative ideas, or
+            opportunities to be part of your vision. If you have any questions,
+            feel free to reach out!
+            <br />
+            <br />
+            You can also find me on{" "}
+            <a
+              href="https://t.me/likyCoder"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-accent hover:text-accent/80 transition-all duration-300 ease-in-out"  
+            >
+              Telegram
+            </a>{" "} 
           </p>
         </div>
         <Form />

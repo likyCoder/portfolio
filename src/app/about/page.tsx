@@ -9,7 +9,60 @@ const HatModel = dynamic(() => import("@/components/models/Hat"), {
 });
 
 export const metadata = {
-  title: "About",
+  title: "About - likyCoder",
+  description:
+    "Discover the journey of likyCoder, a passionate software engineer and trader. Explore innovative projects and a commitment to reshaping the web.",
+  openGraph: {
+    title: "About - likyCoder",
+    description:
+      "Discover the journey of likyCoder, a passionate software engineer and trader. Explore innovative projects and a commitment to reshaping the web.",
+    url: "https://likycoder.com/about",
+    siteName: "likyCoder",
+    images: [
+      {
+        url: "https://likyjosh.likesyou.org/assets/img/hero-bg.jpg",
+        width: 800,
+        height: 600,
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "About - likyCoder",
+    description:
+      "Discover the journey of likyCoder, a passionate software engineer and trader. Explore innovative projects and a commitment to reshaping the web.",
+    images: ["https://likyjosh.likesyou.org/assets/img/hero-bg.jpg"],
+    creator: "@likycoder",
+  },
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/apple-touch-icon.png",
+  },
+  manifest: "/site.webmanifest",
+  themeColor: "#000000",
+  appleWebApp: {
+    statusBarStyle: "default",
+    title: "likyCoder",
+    capable: true,
+    launch: {
+      argument: "/about",
+      url: "/about",
+    },
+  },
+  verification: {
+    google: "google-site-verification=your-google-verification-code",
+    yandex: "your-yandex-verification-code",
+    other: {
+      name: "other-verification",
+      // This is an example, replace with your actual verification code
+      code: "your-verification-code",
+      // This is an example, replace with your actual verification URL
+      url: "https://example.com/verification.txt",
+    },
+  }
 };
 
 export default function Home() {
@@ -32,8 +85,8 @@ export default function Home() {
       <div className="relative w-full h-screen flex flex-col items-center justify-center">
         <div className="absolute flex flex-col items-center text-center top-[60%] sm:top-[70%] left-1/2 -translate-y-1/2 -translate-x-1/2">
           <h1 className="font-bold  text-6xl xs:text-7xl sm:text-8xl lg:text-9xl text-accent">
-            Amit Amrutiya
-          </h1>
+            likyCoder
+          </h1><br />
           <p className="font-light text-foreground text-lg">
             Scroll down to know more about me
           </p>

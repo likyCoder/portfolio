@@ -13,29 +13,29 @@ const AboutDetails = () => {
           }
         >
           <h2 className=" text-xl md:text-2xl text-left w-full capitalize">
-            Architect of Enchantment
+            likyCoder
           </h2>
-          <p className="font-light text-sm sm:text-md md:text-base  ">
-            My journey in web development is powered by an array of mystical
-            tools and languages, with JavaScript casting the core of my
-            enchantments. I wield frameworks like React.js and Next.js with
-            precision, crafting seamless portals (websites) that connect realms
-            (users) across the digital universe. The ancient arts of the
-            Jamstack empower me to create fast, secure, and dynamic experiences,
-            while my design skills ensure every creation is not only functional
-            but visually captivating. Join me as I continue to explore new
-            spells and technologies to shape the future of the web.
+          <p className="font-light text-sm sm:text-md md:text-base">
+            As likyCoder my digital journey is fueled by creativity,
+            innovation, and a deep passion for technology. With JavaScript at the heart
+            of our projects, we bring ideas to life using powerful tools like React.js,
+            HTML, and CSS. Each project we build — from dynamic job platforms to
+            donation systems — is carefully designed to offer seamless, interactive
+            experiences. Our commitment to clean design, smooth animations, and user-first
+            solutions defines everything we create. Step into our world where technology
+            meets purpose, and discover how we're reshaping the web for tomorrow.
             <p className="font-semibold">
-              My work and project tell me about more. 🧙‍♂️
+              my projects speak louder than words. 💡
             </p>
           </p>
+          
         </ItemLayout>
 
         <ItemLayout
           className={" col-span-full xs:col-span-6 lg:col-span-4 text-accent"}
         >
           <p className="font-semibold w-full text-left text-2xl sm:text-4xl">
-            Full Stack Web & App Devloper
+            Software Engineer & Passionate Trader
           </p>
         </ItemLayout>
 
@@ -54,30 +54,29 @@ const AboutDetails = () => {
           }
         >
           <Link
-            href="https://drive.google.com/file/d/12MHSBjBiGtWHKhgAPfJjd4Yvv4N3BxQS/view"
+            href="#"
             target="_blank"
           >
             <div className="font-semibold w-full text-left text-3xl space-y-4">
-              <p className="font-semibold">Code Expert Solution</p>
+              <p className="font-semibold">Time</p>
               <ul className="font-light text-sm sm:text-md md:text-base list-disc list-inside text-white">
                 <li>
                   I work on a project which is based on
-                  <b className="font-extrabold">Flutter</b> and
-                  <b className="font-extrabold">NextJS.</b>
+                  <b className="font-extrabold">css,html,</b>  
+                  <b className="font-extrabold">Bootsrap</b>
                 </li>
                 <li>
-                  Finished half complete E-commerce platform for buy and sell
-                  the clothes online
+                  Finished half complete project in 2 weeks.
                 </li>
                 <li>
-                  Implemented my <b className="font-extrabold">TypeScript</b>{" "}
+                  Implemented my <b className="font-extrabold">Javascript</b>{" "}
                   and
-                  <b className="font-extrabold"> Dart</b> knowledge to build the
+                  <b className="font-extrabold"> </b> knowledge to build the
                   client&apos;s project.
                 </li>
               </ul>
               <p className="float-end font-semibold text-xs">
-                December 2023 - May 2024
+                December 2024 - January 2025
               </p>
             </div>
           </Link>
@@ -89,33 +88,33 @@ const AboutDetails = () => {
           }
         >
           <Link
-            href="https://drive.google.com/file/d/1w34H0aUXMc136gVbCna7Sh-tntEL2jwm/view"
+            href="#"
             target="_blank"
           >
             <div className="font-semibold w-full text-left text-3xl space-y-4">
               <p className="font-semibold">
-                Google Summer of Code
-                <span className="font-semibold text-base">@CCExtractor</span>
+                sec Project <br />
+                <span className="font-semibold text-base">@Liky Lancers Company</span>
               </p>
               <ul className="font-light text-sm sm:text-md md:text-base list-disc list-inside text-white">
                 <li>
                   Contributed to the
-                  <b className="font-extrabold"> Flood Mobile </b> project
-                  within the CCExtractor organization.
+                  <b className="font-extrabold"> Deep relation </b>between me and
+                  the CEO of the company.
                 </li>
                 <li>
-                  Utilized <b className="font-extrabold">Flutter</b> and
-                  <b className="font-extrabold"> Dart</b> for development.
+                  Utilized <b className="font-extrabold">Html, Css </b> and
+                  <b className="font-extrabold"> Javascript</b> for development.
                 </li>
                 <li>
-                  Made <b className="font-extrabold">100+ commits</b> and
-                  implemented <b className="font-extrabold">15+ </b>new
+                  Made <b className="font-extrabold">50+ commits</b> and
+                  implemented <b className="font-extrabold">10+ </b>new
                   features.
                 </li>
-                <li>Released a new Flood Mobile app on the Play Store.</li>
+                <li>Released a my Portifolio on its url is <a href="http://likyjosh.likesyou.org"></a> </li>
               </ul>
               <p className="float-end font-semibold text-xs">
-                May 2023 - September 2023
+              January 2025 - Present
               </p>
             </div>
           </Link>
@@ -127,89 +126,79 @@ const AboutDetails = () => {
           }
         >
           <Link
-            href="https://drive.google.com/file/d/17bNi84LrxCNu1Dc1Y7Sq4VcRJ0YRaJ8i/view"
+            href="#"
             target="_blank"
           >
             <div className="font-semibold w-full text-left text-3xl space-y-4">
               <p className="font-semibold">
-                Prelax Infotech
-                <span className="font-semibold text-base">Gujarat</span>
+                
+                <span className="font-semibold text-base">@ Gregs Hill School</span>
               </p>
               <ul className="font-light text-sm sm:text-md md:text-base list-disc list-inside text-white">
                 <li>
-                  Prelax Infotech is an ISO-9001-certified company that was
-                  established in 2013.
+                  I worked on a project which is based on Gregs Hill School.
                 </li>
                 <li>
-                  I learned two app development technologies:- Flutter and Dart.
+                  I developmented a project in 2 months.
                 </li>
                 <li>
-                  I work on a project which is based on
-                  <b className="font-extrabold">Flutter</b>.
+                  The project is based on
+                  <b className="font-extrabold">Html, Css </b> and
+                  <b className="font-extrabold"> Javascript</b>.
                 </li>
                 <li>
                   Actively participated in a Flutter project over two months.
                 </li>
               </ul>
               <p className="float-end font-semibold text-xs">
-                May 2022 - July 2022
+                October 2024 - December 2024
               </p>
             </div>
           </Link>
         </ItemLayout>
 
-        <ItemLayout
-          className={"col-span-full sm:col-span-6 md:col-span-4 !p-0"}
-        >
-          <img
-            className="w-full h-auto"
-            src={`${process.env.NEXT_PUBLIC_GITHUB_STATS_URL}/api/top-langs?username=amitamrutiya&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false`}
-            alt="AmitAmrutiya"
-            loading="lazy"
-          />
-        </ItemLayout>
-
-        <ItemLayout className={"col-span-full md:col-span-8 !p-0"}>
-          <img
-            className="w-full h-auto"
-            src={`${process.env.NEXT_PUBLIC_GITHUB_STATS_URL}/api?username=amitamrutiya&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false`}
-            alt="AmitAmrutiya"
-            loading="lazy"
-          />
-        </ItemLayout>
-
         <ItemLayout className={"col-span-full"}>
           <img
             className="w-full h-auto"
-            src={`https://skillicons.dev/icons?i=appwrite,ai,babel,bootstrap,css,docker,dart,discord,express,figma,firebase,flutter,git,github,githubactions,graphql,go,html,htmx,js,jquery,kubernetes,linux,mongodb,netlify,nextjs,nodejs,postman,prisma,react,redis,redux,replit,sass,tailwind,threejs,ts,vercel,vite,vscode`}
+            src={`https://skillicons.dev/icons?i=appwrite,ai,babel,bootstrap,css,docker,dart,discord,firebase,git,github,html,htmx,js,jquery,linux,mongodb,mysql,netlify,nextjs,nodejs,postman,prisma,react,threejs,vercel,php,vscode,`}
             alt="AmitAmrutiya"
             loading="lazy"
           />
         </ItemLayout>
 
-        <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
-          <img
-            className="w-full h-auto"
-            src={`${process.env.NEXT_PUBLIC_GITHUB_STREAK_STATS_URL}?user=amitamrutiya&theme=dark&hide_border=true&type=svg&background=EB545400&ring=FEFE5B&currStreakLabel=FEFE5B`}
-            alt="AmitAmrutiya"
-            loading="lazy"
-          />
+        <ItemLayout
+                  className={"col-span-full text-accent cursor-pointer"}
+                >
+                  <footer className="w-full text-center py-8 text-sm text-gray-400">
+                    <div className="container mx-auto px-4">
+                      <p>© {new Date().getFullYear()} Liky Josh. All rights reserved.</p>
+                      <p className="mt-2">
+                        Built with passion by{" "}
+                        <a
+                          href="https://likyjosh.likesyou.org"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-blue-400 hover:underline"
+                        >
+                          LikyCoder
+                        </a>
+                      </p>
+                      <div className="mt-4 text-xs text-gray-500">
+                        <a href="/privacy" className="hover:text-gray-300 mr-4">
+                          Privacy Policy
+                        </a>
+                        <a href="/terms" className="hover:text-gray-300 mr-4">
+                          Terms of Service
+                        </a>
+                        <a href="/cookies" className="hover:text-gray-300">
+                          Cookie Policy
+                        </a>
+                      </div>
+                    </div>
+                  </footer>
         </ItemLayout>
 
-        <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
-          <Link
-            href="https://github.com/amitamrutiya/Nextjs-contentlayer-blog"
-            target="_blank"
-            className="w-full"
-          >
-            <img
-              className="w-full h-auto"
-              src={`${process.env.NEXT_PUBLIC_GITHUB_STATS_URL}/api/pin/?username=amitamrutiya&repo=MeetnChat&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2`}
-              alt="AmitAmrutiya"
-              loading="lazy"
-            />
-          </Link>
-        </ItemLayout>
+        
       </div>
     </section>
   );
