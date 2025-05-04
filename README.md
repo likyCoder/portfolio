@@ -9,6 +9,12 @@ Link to the live of this portfolio [Live](https://portfolio-josh-sigma.vercel.ap
 - **Blogs Section**: Ability to feature blog posts or articles.
 
 ## Built With 💻
+### PREVIEW PICTURES 
+## PC responsiveness
+![Screenshot 2023-10-21 154835](https://github.com/likyCoder/portfolio/blob/main/public/background/photo1.png)
+
+## Phone/ Mobile Responsiveness
+![Screenshot 2023-10-21 154835](https://github.com/likyCoder/portfolio/blob/main/public/background/photo2.png)
 
 - **Three.js**: JavaScript library for creating 3D graphics and animations.
 - **EmailJS**: Service for sending emails directly from client-side JavaScript.
